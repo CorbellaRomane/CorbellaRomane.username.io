@@ -1,0 +1,15 @@
+.card {
+	height : 200px;
+	background-image: url(http://img.taste.com.au/BDDm1PmJ/taste/2016/11/basic-buttermilk-scones-75490-1.jpeg);
+	background-size: cover !important;
+	position: relative;
+}
+
+.card-avatar {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+}

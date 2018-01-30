@@ -1,0 +1,36 @@
+@import url("components/avatar.css");
+@import url("components/abstract.css");
+@import url("components/icon_network.css");
+@import url("components/cadre.css");
+@import url("components/button.css");
+@import url("components/shadow.css");
+@import url("components/network.css");
+@import url("components/bannerimg.css");
+@import url("components/card.css");
+
+
+h1 {
+  color: #E15E32;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+
+body {
+  background-color: #783932;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+
+/*p {
+  font-weight: bold;
+}*/
+
+
+
+
+
+
+  
+

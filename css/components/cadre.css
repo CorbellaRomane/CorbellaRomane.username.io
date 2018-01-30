@@ -1,0 +1,24 @@
+.cadre {
+  background-color: white;
+
+  margin-top: 70px;
+  margin-right:130px;
+  margin-bottom: : 70px;
+  margin-left: 130px;
+  border: solid 5px #B3553C;
+  border-radius: 10px;
+  /*margin: 70px 130px 70px 130px;*/
+  padding: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: relative;
+}
+
+.cadre-circle {
+  position: absolute;
+  right: 0px;
+  top:0px;
+  width: 100px;
+  height: 100px;
+  background: #301117;
+  border-radius: 50%;
+}
